@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/callbarian/I3D-Feature-Extractor-master/data/checkpoints/rgb_imagenet/model.ckpt"
+all_model_checkpoint_paths: "/home/callbarian/I3D-Feature-Extractor-master/data/checkpoints/rgb_imagenet/model.ckpt"

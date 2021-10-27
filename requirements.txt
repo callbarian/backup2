@@ -7,7 +7,7 @@ cloudpickle==1.1.1
 contextlib2==0.6.0.post1
 cycler==0.10.0
 cytoolz==0.10.1
-dask==2.10.1
+dask==2021.10.0
 decorator==4.4.1
 dm-sonnet==1.35
 gast==0.2.2
